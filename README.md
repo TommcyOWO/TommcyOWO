@@ -5,7 +5,7 @@
   2. 後端:python、python(Flask、Django)、node.js
 ### My discord 我的 discord
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=503043347246743567)
+[![Discord Presence](https://lanyard.cnrad.dev/api/503043347246743567?bg=#f777bd)](https://discord.com/users/503043347246743567)
 ### Project In Development 正在開發的專案
 
 ![Project](https://raw.githubusercontent.com/TommcyOWO/TommcyOWO/main/starrail-horizontal-A5.png)
