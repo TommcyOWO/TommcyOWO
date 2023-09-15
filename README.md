@@ -3,7 +3,7 @@
 * 熟悉領域:
   1. 前端:Vue3
   2. 後端:python、python(Flask、Django)、node.js
-*My blog:
+* My blog:
 https://tommcyowo.000webhostapp.com/
 ### My discord 我的 discord
 
