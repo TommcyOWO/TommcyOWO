@@ -1,7 +1,8 @@
-### About Me 關於我
+<h2 align="center"> About Me 關於我 </h2>
 一個平平無奇，~~數學爆幹爛~~的國3生
 
-### Good At 我擅長的 
+<h2 align="center"> Good At 我擅長的 </h2>
+<p>
 <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'>
 <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'>
 <img src='https://img.shields.io/badge/nuxt%20js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white'>
@@ -17,13 +18,14 @@
 <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
 <img src='https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
 <img src='https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green'>
+</p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TommcyOWO&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-###  My discord 我的 discord 
+<h2 align="center">  My discord 我的 discord  </h2>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/503043347246743567?idleMessage=I%20hate%20my%20life%20)](https://discord.com/users/503043347246743567)
 
-###  Project In Development 正在開發的專案 
+<h2 align="center">#  Project In Development 正在開發的專案 </h2>
 
 ![Project](https://raw.githubusercontent.com/TommcyOWO/TommcyOWO/main/starrail-horizontal-A5.png)
