@@ -1,7 +1,7 @@
-### <center> About Me 關於我 </center>
+### About Me 關於我
 一個平平無奇，~~數學爆幹爛~~的國3生
 
-### <center>Good At 我擅長的 </center>
+### Good At 我擅長的 
 <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'>
 <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'>
 <img src='https://img.shields.io/badge/nuxt%20js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white'>
@@ -20,10 +20,10 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TommcyOWO&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-### <center> My discord 我的 discord </center>
+###  My discord 我的 discord 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/503043347246743567?idleMessage=I%20hate%20my%20life%20)](https://discord.com/users/503043347246743567)
 
-### <center> Project In Development 正在開發的專案 </center>
+###  Project In Development 正在開發的專案 
 
 ![Project](https://raw.githubusercontent.com/TommcyOWO/TommcyOWO/main/starrail-horizontal-A5.png)
