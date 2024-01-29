@@ -6,7 +6,7 @@
 </div>
 <br />
 <div align="center">
-<img src="https://lanyard.cnrad.dev/api/503043347246743567?idleMessage=I%20hate%20my%20life%20)](https://discord.com/users/503043347246743567)">
+<img src="https://lanyard.cnrad.dev/api/503043347246743567?idleMessage=I%20hate%20my%20life%20">
 </div>
 <br />
 <!-- <table align="center"> -->
