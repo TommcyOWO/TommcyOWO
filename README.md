@@ -2,7 +2,7 @@
 </h1>
 <p align="center">I'm a Student / FrontEnd / BackEnd </p>
 <div align="center">
-<a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:?theme=rule34"></a>
+<a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:tomycat?theme=rule34"></a>
 </div>
 <br />
 <div align="center">
