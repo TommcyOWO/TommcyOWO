@@ -5,9 +5,11 @@
 <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:tomycat?theme=rule34"></a>
 </div>
 <br />
+<br />
 <div align="center">
 <img src="https://lanyard.cnrad.dev/api/503043347246743567?idleMessage=I%20hate%20my%20life%20)](https://discord.com/users/503043347246743567)">
 </div>
+<br />
 <!-- <table align="center"> -->
   <!-- <tbody> -->
     <!-- <tr> -->
