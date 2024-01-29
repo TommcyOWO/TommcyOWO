@@ -1,32 +1,34 @@
 <h1 align="center">🌸 Hi~, I'm Tomycat 
-<br><br>一個平平無奇，<del>數學爆幹爛</del>的國3生
 </h1>
+<p align="center">I'm a Student / FrontEnd / BackEnd </p>
+<div align="center">
+<a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:?theme=rule34"></a>
+</div>
+<br />
+<div align="center">
+<img src="https://lanyard.cnrad.dev/api/503043347246743567?idleMessage=I%20hate%20my%20life%20)](https://discord.com/users/503043347246743567)">
+</div>
+<!-- <table align="center"> -->
+  <!-- <tbody> -->
+    <!-- <tr> -->
+    <!-- <td> -->
+<!--  -->
+    <!-- </td> -->
+    <!-- <td> -->
+    <!-- </td> -->
+    <!-- </tr> -->
+  <!-- </tbody> -->
+<!-- </table> -->
+<div align="center">
 
-<h2 align="center"> Good At 我擅長的 </h2>
-<p>
-<img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'>
-<img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'>
-<img src='https://img.shields.io/badge/nuxt%20js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white'>
-<img src='https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D'>
-<img src='https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E'>
-<img src='https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white'>
-<img src='https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white'>
-<img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white'>
-<img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'>
-<img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
-<img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
-<img src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue'>
-<img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
-<img src='https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
-<img src='https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green'>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=vue,vite,nuxtjs,nodejs,js,ts,html,css,tauri,rust,actix,py,flask,fastapi)](https://skillicons.dev)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TommcyOWO&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2 align="center">  My discord 我的 discord  </h2>
+[![My Skills](https://skillicons.dev/icons?i=vscode,discord,blender,docker,kubernetes,mongodb,mysql,linux)](https://skillicons.dev)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/503043347246743567?idleMessage=I%20hate%20my%20life%20)](https://discord.com/users/503043347246743567)
+</div>
+<div align="center">
+<h2>Projects Under Development 正在開發的專案</h2>
+    <img src="./starrail-horizontal-A5.png" alt="Metrics">
+</div>
 
-<h2 align="center">#  Project In Development 正在開發的專案 </h2>
-
-![Project](https://raw.githubusercontent.com/TommcyOWO/TommcyOWO/main/starrail-horizontal-A5.png)
