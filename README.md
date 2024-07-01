@@ -8,18 +8,18 @@
 <div align="center">
 <img src="https://lanyard.cnrad.dev/api/503043347246743567?idleMessage=I%20hate%20my%20life%20">
 </div>
-<!-- <br /> -->
-<!-- <table align="center"> -->
-  <!-- <tbody> -->
-    <!-- <tr> -->
-    <!-- <td> -->
-<!--  -->
-    <!-- </td> -->
-    <!-- <td> -->
-    <!-- </td> -->
-    <!-- </tr> -->
-  <!-- </tbody> -->
-<!-- </table> -->
+<br/>
+<table align="center">
+  <tbody>
+    <tr>
+    <td>
+      <img  src="/github-metrics.svg" alt="Metrics" width="400">
+    </td>
+    <td>
+    </td>
+    </tr>
+  </tbody>
+</table>
 
 
 ## My skill✨
@@ -41,9 +41,3 @@
 
 ### System
 ![My Skills](https://skillicons.dev/icons?i=windows,arch,linux,ubuntu)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
