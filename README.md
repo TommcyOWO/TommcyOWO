@@ -21,7 +21,6 @@
   <!-- </tbody> -->
 <!-- </table> -->
 
-<div align="center">
 
 ## My skill✨
 ### Languages
@@ -42,5 +41,3 @@
 
 ### System
 ![My Skills](https://skillicons.dev/icons?i=windows,arch,linux,ubuntu)
-
-</div>
