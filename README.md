@@ -1,4 +1,4 @@
-<h1 align="center">🌸 Hi~, I'm Tomycat 
+<h1 align="center">🌸 Hi~, I'm Tomycat
 </h1>
 <p align="center">I'm a Student / FrontEnd / BackEnd </p>
 <div align="center">
@@ -20,16 +20,28 @@
     <!-- </tr> -->
   <!-- </tbody> -->
 <!-- </table> -->
-<div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=vue,vite,nuxtjs,nodejs,js,ts,html,css,tauri,rust,actix,py,flask,fastapi)](https://skillicons.dev)
+## My skill✨
+### Languages
+
+![My Skills](https://skillicons.dev/icons?i=bash,html,css,js,ts,rust,py)
+
+### Library
+
+![My Skills](https://skillicons.dev/icons?i=tauri,actix,vue,vite,nuxt,fastapi,flask)
 
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,discord,blender,docker,kubernetes,mongodb,mysql,linux)](https://skillicons.dev)
+### Tools
 
-</div>
+![My Skills](https://skillicons.dev/icons?i=vscode,blender,docker,kubernetes,mongodb,mysql)
+
+### Services
+![My Skills](https://skillicons.dev/icons?i=github,gitlab,cloudflare,postman)
+
+### System
+![My Skills](https://skillicons.dev/icons?i=windows,arch,linux,ubuntu)
+
 <div align="center">
 <h2>Projects Under Development 正在開發的專案</h2>
-    <img src="./starrail-horizontal-A5.png" alt="Metrics">
+    <img src="[def]" alt="Metrics">
 </div>
-
