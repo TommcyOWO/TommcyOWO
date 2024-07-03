@@ -10,7 +10,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: TommcyOWO/metrics@latest
+      - uses: TommcyOWO/metrics
         with:
           # Your GitHub token
           # The following scopes are required:
