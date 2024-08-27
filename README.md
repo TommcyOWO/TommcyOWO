@@ -16,7 +16,7 @@
       <img  src="/github-metrics.svg" alt="Metrics" width="400">
     </td>
     <td>
-      <img src="https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif">
+      <img src="https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif" with="400">
     </td>
     </tr>
   </tbody>
