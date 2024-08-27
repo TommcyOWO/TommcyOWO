@@ -9,17 +9,18 @@
 <img src="https://lanyard.cnrad.dev/api/503043347246743567?idleMessage=I%20hate%20my%20life%20">
 </div>
 <br/>
-<!-- <table align="center">
+<table align="center">
   <tbody>
     <tr>
     <td>
       <img  src="/github-metrics.svg" alt="Metrics" width="400">
     </td>
     <td>
+      <img src="https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif">
     </td>
     </tr>
   </tbody>
-</table> -->
+</table>
 
 
 ## My skill✨
