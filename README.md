@@ -13,7 +13,7 @@
   <tbody>
     <tr>
     <td>
-      <img  src="/github-metrics.svg" alt="Metrics" height="800" width="700">
+      <img  src="/github-metrics.svg" alt="Metrics" width="800">
     </td>
     <td>
       <img src="https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif">
