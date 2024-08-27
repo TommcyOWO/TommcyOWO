@@ -43,5 +43,5 @@
 ### System
 ![My Skills](https://skillicons.dev/icons?i=windows,arch,linux,ubuntu)
 ### Codeberg
-[![Codeberg](/codeberg.svg =40x40)](https://codeberg.org/TommcyOWO)
+<a href="https://codeberg.org/TommcyOWO"><img src="/codeberg.svg" height="40"></a>
 
